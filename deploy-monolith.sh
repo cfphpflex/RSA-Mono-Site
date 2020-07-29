@@ -19,7 +19,7 @@ gcloud services enable cloudbuild.googleapis.com > /dev/null 2>&1
 printf "Completed.\n"
 
 printf "Building Monolith Container..."
-cd ~/monolith-to-microservices/monolith
+cd ~/RSA-Mono-Site/monolith
 gcloud builds submit --tag gcr.io/${GOOGLE_CLOUD_PROJECT}/monolith:1.0.0 . > /dev/null 2>&1
 printf "Completed.\n"
 
