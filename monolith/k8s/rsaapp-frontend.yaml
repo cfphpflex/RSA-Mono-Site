@@ -36,7 +36,7 @@ spec:
       containers:
       - name: rsaapp
         # MAKE THIS CHANGE OR FAIL: Replace [GCLOUD_PROJECT] with your project ID or use `make template`.
-        image: gcr.io/rsa-mono-site3/rsaapp
+        image: gcr.io/rsa-mono-site4/rsaapp
         # This setting makes nodes pull the docker image every time before
         # starting the pod. This is useful when debugging, but should be turned
         # off in production.

@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74df7be4-6045-436f-9659-8fae949e5261" name="Default Changelist" comment="" />
+    <list default="true" id="74df7be4-6045-436f-9659-8fae949e5261" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/frontend/k8s/rsaapp-frontend.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/frontend/k8s/rsaapp-frontend.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/orders/k8s/rsaapp-frontend.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/orders/k8s/rsaapp-frontend.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/products/k8s/rsaapp-frontend.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/products/k8s/rsaapp-frontend.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monolith/MONOLITH-WORKS-FREEZE-PI_RSA_MonoToMicro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/monolith/MONOLITH-WORKS-FREEZE-PI_RSA_MonoToMicro.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/monolith/k8s/rsaapp-frontend.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/monolith/k8s/rsaapp-frontend.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,18 +49,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/microservices/src/users" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/monolith" />
       <recent name="$PROJECT_DIR$/microservices/src/users" />
       <recent name="$PROJECT_DIR$/microservices/src/products" />
       <recent name="$PROJECT_DIR$/microservices/src/orders" />
+      <recent name="$PROJECT_DIR$/microservices/src/frontend" />
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/monolith" />
@@ -89,5 +97,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-109" y="-702" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596075908980">
+      <screen x="-869" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-109" y="-702" key="#com.intellij.fileTypes.FileTypeChooser/1051.-1057.1920.1057/-869.-1057.1920.1057/0.23.1792.1048@-869.-1057.1920.1057" timestamp="1596075908980" />
+    <state x="-129" y="-915" width="588" height="807" key="find.popup" timestamp="1596076351264">
+      <screen x="-869" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-129" y="-915" width="588" height="807" key="find.popup/1051.-1057.1920.1057/-869.-1057.1920.1057/0.23.1792.1048@-869.-1057.1920.1057" timestamp="1596076351264" />
   </component>
 </project>
