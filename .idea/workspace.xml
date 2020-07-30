@@ -22,7 +22,13 @@
     <list default="true" id="74df7be4-6045-436f-9659-8fae949e5261" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/monolith/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/monolith/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/frontend/k8s/rsaapp-frontend.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/frontend/k8s/rsaapp-frontend.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/frontend/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/frontend/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/orders/k8s/rsaapp-frontend.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/orders/k8s/rsaapp-frontend.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/orders/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/orders/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/products/k8s/rsaapp-frontend.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/products/k8s/rsaapp-frontend.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/products/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/products/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/microservices/src/users/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/microservices/src/users/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
