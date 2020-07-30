@@ -73,9 +73,11 @@ def list_users():
 
 @app.route("/")
 def list_items():
-    start_after = request.args.get('start_after', None)
-    items, last_item_id = firestore.next_page(start_after=start_after)
-    return render_template("item_list.html", items=items, last_item_id=last_item_id)
+    # start_after = request.args.get('start_after', None)
+    # items, last_item_id = firestore.next_page(start_after=start_after)
+    # return render_template("item_list.html", items=items, last_item_id=last_item_id)
+
+    return "Hello new world, Yeeehaaa!!!! ;>"
 
 # Add an error handler that reports exceptions to Stackdriver Error
 # Reporting. Note that this error handler is only used when debug
