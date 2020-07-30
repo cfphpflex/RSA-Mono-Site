@@ -2,7 +2,7 @@ from flask import current_app, render_template, Flask, redirect, request, url_fo
 # import firestore
 import storage
 
-from google.cloud import error_reporting
+#from google.cloud import error_reporting
 
 app = Flask(__name__)
 app.config.update(

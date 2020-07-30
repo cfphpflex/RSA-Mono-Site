@@ -1,7 +1,6 @@
 from flask import current_app, render_template, Flask, redirect, request, url_for
 import firestore
 import storage
-from google.cloud import error_reporting
 
 
 app = Flask(__name__)
